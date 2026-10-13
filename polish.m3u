@@ -1,0 +1,23 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz" url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz"
+# Publicly listed Polish HLS streams. Availability and legal/geographical access can change.
+# Set the Polish EPG separately as an XMLTV provider in Jellyfin.
+#EXTINF:-1 tvg-id="4FUN.TV.pl" tvg-name="4FUN TV" group-title="Poland",4FUN TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 tvg-id="4FUN.KIDS.pl" tvg-name="4FUN Kids" group-title="Poland",4FUN Kids
+https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
+#EXTINF:-1 tvg-id="Echo.24.pl" tvg-name="Echo24" group-title="Poland",Echo24
+https://echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8
+#EXTINF:-1 tvg-id="Euronews.pl" tvg-name="Euronews Polska" group-title="Poland",Euronews Polska
+https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8
+#EXTINF:-1 tvg-id="TV.ASTA.pl" tvg-name="TV ASTA" group-title="Poland",TV ASTA
+https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVT.pl" tvg-name="TVT" group-title="Poland",TVT
+https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
+#EXTINF:-1 tvg-id="Twoja.TV.pl" tvg-name="Twoja TV" group-title="Poland",Twoja TV
+https://stream.twoja.tv/ttv_hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telewizja Biznesowa" group-title="Poland",Telewizja Biznesowa
+https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sfera TV" group-title="Poland",Sfera TV
+https://stream.sferatv.pl/sferatvlive/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVK Stella" group-title="Poland",TVK Stella
+https://stream.tvkstella.pl/stella/stella.m3u8
