@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NRK1.Norway.(NO,NO).no" tvg-name="NRK1" group-title="NRK",NRK1
+https://cdn0-47115-liveedge0.dna.contentdelivery.net/47115-liveedge0/nrk1/muxed.m3u8?adap=small&fps=0-60&aco=aac
+#EXTINF:-1 tvg-id="NRK2.Norway.(NO,NO).no" tvg-name="NRK2" group-title="NRK",NRK2
+https://nrk-live2-no.telenorcdn.net/nrk2/muxed.m3u8?adap=small&fps=0-60&aco=aac
+#EXTINF:-1 tvg-id="NRK3.Norway.(NO,NO).no" tvg-name="NRK3" group-title="NRK",NRK3
+https://cdn0-47115-liveedge0.dna.contentdelivery.net/47115-liveedge0/nrk3/muxed.m3u8?adap=small&fps=0-60&aco=aac
+#EXTINF:-1 tvg-name="NRK Nyhetskanalen" group-title="NRK",NRK Nyhetskanalen
+https://nrk-live2.telenorcdn.net/nrktv8/muxed.m3u8?adap=small&fps=0-60&aco=aac
+#EXTINF:-1 tvg-id="NRK.Super.Norway.(NO,NO).no" tvg-name="NRK Super" group-title="NRK",NRK Super
+https://cdn0-47115-liveedge0.dna.contentdelivery.net/47115-liveedge0/nrksuper/muxed.m3u8?adap=small&fps=0-60&aco=aac
